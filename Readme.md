@@ -1,5 +1,5 @@
-# Fudrestraurant home page
-#### Simple home page for Fudrestraurant, 26th Feb 2021
+# Fudtamu Restraurant home page
+#### Simple home page for Fudtamu Restraurant, 26th Feb 2021
 #### By **Antony Kazungu**
 ## Description
 This the home page of my future business. It talks about the business and the products we provide. Also its shows our lacations in Kenya
